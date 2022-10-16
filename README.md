@@ -1,7 +1,7 @@
 
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 <h1 align="center">Hi 👋, I'm Jay Prakash Lohar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from :india:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakashlohar&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashlohar" /> </p>
 
