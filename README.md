@@ -2,7 +2,7 @@
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 <h1 align="center">Hi 👋, I'm Jay Prakash Lohar</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from india</h3
-  
+  <br>
   <br/>
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
 
@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
 
+  
+   <br>
+  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakashlohar&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashlohar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayprakashlohar" alt="jayprakashlohar" /></a> </p>
