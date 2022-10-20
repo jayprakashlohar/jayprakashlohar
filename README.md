@@ -24,10 +24,11 @@
   
    <br>
   <br/>
+  <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakashlohar&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashlohar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayprakashlohar" alt="jayprakashlohar" /></a> </p>
-  
+  </div>
     <br />
      <br />
   <h3> 🚀 Languages and Tools:</h3>
