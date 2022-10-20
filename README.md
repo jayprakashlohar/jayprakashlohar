@@ -2,6 +2,7 @@
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 <h1 align="center">Hi 👋, I'm Jay Prakash Lohar</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from india</h3
+  <hr/>
   <br>
   <br/>
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
