@@ -82,3 +82,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayprakashlohar&show_icons=true&locale=en" alt="jayprakashlohar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprakashlohar&" alt="jayprakashlohar" /></p>
+    <hr>
+   <p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+    <code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
