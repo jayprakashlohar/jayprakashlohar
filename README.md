@@ -21,10 +21,9 @@
 - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1X7UuBPTPS6vFaVoeeuZB2jd0NwME2PKW/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
-
+   <hr>
   
-   <br>
-  <br/>
+ 
   <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayprakashlohar&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashlohar" /> </p>
 
