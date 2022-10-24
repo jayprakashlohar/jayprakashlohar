@@ -82,6 +82,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayprakashlohar&show_icons=true&locale=en" alt="jayprakashlohar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprakashlohar&" alt="jayprakashlohar" /></p>
+   <hr>
+   </p>
+  
+<p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
     <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
