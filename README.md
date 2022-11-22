@@ -1,7 +1,7 @@
 
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 <h1 align="center">Hi 👋, I'm Jay Prakash Lohar</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer from india</h3
+<h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
   <hr/>
   <br>
   <br/>
