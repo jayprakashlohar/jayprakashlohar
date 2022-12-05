@@ -93,8 +93,3 @@
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayprakashloha&theme=github_dark" alt="jayprakashlohar" align = "center"/></p>
-</div>
