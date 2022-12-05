@@ -83,12 +83,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprakashlohar&" alt="jayprakashlohar" /></p>
    <hr>
    </p>
-<!--   
-<p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+  
+<!-- <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="jayprakashlohar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+  <p align="center"<a href="#"><img alt="jay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
     <hr>
    <p align="center">
