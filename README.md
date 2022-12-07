@@ -83,7 +83,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprakashlohar&" alt="jayprakashlohar" /></p>
    <hr>
    </p>
- <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?     username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> 
+<!--  <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?     username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>  -->
+ 
+ 
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gShubham7&theme=github_dark" alt="jayprakashlohar" align = "center"/></p>
+</div>
     <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
